@@ -1,0 +1,19 @@
+#game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    font-size: 24px;
+  }
+  
+  #game input[type="text"], #game button {
+    margin-bottom: 10px;
+  }
+  
+  #game img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    cursor: pointer;
+  }
